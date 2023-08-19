@@ -1,5 +1,7 @@
 ﻿# TITLE: A Scientific ML Framework to Understand Flash Graphene Synthesis 
-## Submitted to Digital Discovery journal. 
+## related to the following article: 
+https://pubs.rsc.org/en/content/articlelanding/2023/DD/D3DD00055A
+Cited as: Digital Discovery, 2023,2, 1209-1218
 
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 
