@@ -2,6 +2,7 @@
 ## related to the following article: 
 https://pubs.rsc.org/en/content/articlelanding/2023/DD/D3DD00055A
 Cited as: Digital Discovery, 2023,2, 1209-1218
+
 ![Scheme of the developed framework](https://pubs.rsc.org/image/article/2023/dd/d3dd00055a/d3dd00055a-f2_hi-res.gif)
 
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
